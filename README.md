@@ -1,4 +1,4 @@
-# Ultra Fx Scanner
+# Forex Market Scanner
 #### Video Demo: https://youtu.be/RkxO6NjXwaI
 #### Description:
 Hello World!, Ultra Fx Scanner is a free to use open source forex
